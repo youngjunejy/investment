@@ -1,5 +1,8 @@
 # investment
 
+## 进度
+文档生成使用docsify，页面挂载在github pages上。
+
 ## Features
 - 指数：需要知道成分股，指数的更新时间，指数估值。
   - A500

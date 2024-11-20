@@ -1,4 +1,10 @@
-- [首页](/)
+- [介绍](/)
+- [投资策略](/strategy.md)
 - 指数
   - [A500](/index/A500.md)
   - [中证 500](/index/CSI500.md)
+- 行业研究
+  - [生猪养殖](/industry/pig.md)
+  - [乳制品](/industry/dairy.md)
+- [黄金](/gold.md)
+- [债券](/bond.md)
